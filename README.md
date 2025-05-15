@@ -52,8 +52,5 @@ Based on the available data, **Brownstone on Old Univ** emerged as the optimal p
 - `PuLP` optimization library
 - `pandas`, `matplotlib` for data processing and visualization
 
-## 📎 Resources
-
-- [PuLP Documentation](https://coin-or.github.io/pulp/)
 
 
