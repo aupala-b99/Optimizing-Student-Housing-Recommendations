@@ -4,9 +4,10 @@ This project demonstrates how Mixed Integer Programming (MIP) can be used to rec
 
 ## 📂 Project Structure
 
-├── Application_of_MIP_Code.ipynb     # Jupyter notebook implementing the MIP model
-├── Dark Blue Modern Real Estate Presentation.pdf  # Slide deck summarizing the project
-├── README.md                         # Project documentation
+| File Name                        | Description                                                     |
+|----------------------------------|-----------------------------------------------------------------|
+| `Application_of_MIP_Code.ipynb `      | Python code with Pyomo model + output                      |
+| `Dark Blue Modern Real Estate Presentation.pdf` | Executive-level project summary slides (5-min)   |
 
 ## 📈 Problem Overview
 
