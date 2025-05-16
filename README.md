@@ -1,4 +1,4 @@
-# 🏡 Tailored Housing Recommendation using Mixed Integer Programming (MIP)
+# 🏡 Tailored Housing Recommendation using Mixed Integer            Programming (MIP)
 
 This project demonstrates how Mixed Integer Programming (MIP) can be used to recommend optimal student housing options based on constraints like rent, proximity to campus, and availability of amenities. It was developed as part of a data-driven decision-making exercise at the University of Wisconsin–Madison.
 
