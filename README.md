@@ -30,7 +30,7 @@ The core logic is implemented using Python's `PuLP` library for formulating and 
   - Proximity thresholds (e.g., within 1 mile of campus)
 
 ## 📊 Results
-![Optimal Property Result](./output_graph.png)
+![Optimal Property Result](./Output.png)
 Based on the available data, **Brownstone on Old Univ** emerged as the optimal property:
 - 📍 0.3 miles from campus
 - 💰 $600 rent per month
