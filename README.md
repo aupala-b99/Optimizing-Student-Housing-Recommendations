@@ -6,8 +6,10 @@ This project demonstrates how Mixed Integer Programming (MIP) can be used to rec
 
 | File Name                        | Description                                                     |
 |----------------------------------|-----------------------------------------------------------------|
-| [View Notebook](./Application_of_MIP_Code.ipynb)| Python code with Pyomo model + output                      |
-| [View Project Presentation (PDF)]Dark Blue Modern Real Estate Presentation (1).pdf | Executive-level project summary slides (5-min)   |
+| [View Notebook](Optimizing-Student-Housing-Recommendations
+/Application_of_MIP_Code.ipynb)| Python code with Pyomo model + output                      |
+| [View Project Presentation (PDF)](Optimizing-Student-Housing-Recommendations
+/Dark Blue Modern Real Estate Presentation (1).pdf) | Executive-level project summary slides (5-min)   |
 
 ## 📈 Problem Overview
 
