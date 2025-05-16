@@ -4,12 +4,11 @@ This project demonstrates how Mixed Integer Programming (MIP) can be used to rec
 
 ## 📂 Project Structure
 
-| File Name                        | Description                                                     |
-|----------------------------------|-----------------------------------------------------------------|
-| [View Notebook](Optimizing-Student-Housing-Recommendations
-/Application_of_MIP_Code.ipynb)| Python code with Pyomo model + output                      |
-| [View Project Presentation (PDF)](Optimizing-Student-Housing-Recommendations
-/Dark Blue Modern Real Estate Presentation (1).pdf) | Executive-level project summary slides (5-min)   |
+| File Name                                                                    | Description                                |                                             
+|------------------------------------------------------------------------------|--------------------------------------------|
+| [Application_of_MIP_Code.ipynb](./Application_of_MIP_Code%20(1)%20(1).ipynb) | Jupyter notebook implementing the MIP model|
+| [Presentation.pdf](./Dark%20Blue%20Modern%20Real%20Estate%20Presentation%20(1).pdf) | Summary slide deck of the project  |
+
 
 ## 📈 Problem Overview
 
